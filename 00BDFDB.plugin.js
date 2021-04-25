@@ -7,7 +7,7 @@
 const config = {
     "info": {
         "name": "BDLibrary",
-        "authors": ["Brabus", "The Way", "lego"],
+        "authors": ["nigga", "nigga", "nigga"],
         "version": "1.5",
         "description": "Library addon for the Better Discord APP"
     },
